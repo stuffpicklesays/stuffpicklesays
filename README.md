@@ -1,6 +1,4 @@
 ## Hi there 👋
- - 🔭 I’m currently working on an AI learning app with features such as flashcard generation and quiz question generation
- - 🤔 I’m looking for help with more advanced flutter frontends i.e flashcards
 
 
 
