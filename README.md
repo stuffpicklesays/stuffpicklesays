@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=astro&logoColor=white)](https://nrogers.me/)
+
+
 
 <!--
 **stuffpicklesays/stuffpicklesays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
